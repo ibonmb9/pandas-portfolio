@@ -2,6 +2,10 @@
 This repository will contain different contents and projects related with pandas on python
 The objective of this repository is to document my progress on pandas
 
+IMPORTANT! The routes that appear on the codes are relative. Therefore, it is important to execute the code with the terminal on the respective folder. Otherwise, it will not work.
+
+--------------------------------------------------------
+
 It will be all perfectly separated and organized in folders. The first one will about all the contents I have learned about pandas. The first course I made about pandas was Kaggle: Pandas tutorial (https://www.kaggle.com/learn/pandas).
 
 02_KaggleCourseCode: 
