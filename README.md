@@ -35,4 +35,5 @@ RESULTS
 2nd option (Day-Range): This is an example of what will be shown on the terminal
 
 <img src="https://github.com/user-attachments/assets/45de689d-38e6-45e0-954a-b61cc7341ce9" width="350" alt="image" />
+
 --------------------------------------------------------
