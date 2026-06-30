@@ -28,6 +28,7 @@ For this project I have used my personal data from Spotify. Therefore, due to pr
 The data search method will be the next one: since one of the options is the specific day stats and the other day-range (various specific dates), the artists summary, song summary... will be made for a day and for the day-range, I will find the starting point and ending point and create a DataFrame with the data between the two limits.
 
 RESULTS
+
 1st option (Specific Date): This is an example of what will be shown on the terminal
 
 <img src="https://github.com/user-attachments/assets/aa8f9f23-31bc-4cdd-ab5e-a9db482c76ea" width="350" alt="image" />
