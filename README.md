@@ -14,6 +14,12 @@ This is the very first project I have made using pandas. At this point, I was no
 
 For this project, I have made a python file for tests. However, it is not finished. That is because the DataFrame I used is really extense and it takes plenty of time to create the expected result DataFrame. That process does not have much importance. In consequence, the test is unfinished. Even though it has many gaps, I decided to leave it there because it provides a sketch of how to make a testing Python file when pandas is used.
 
+RESULTS
+These are some of the outputs that will be shown on the terminal
+
+<img src="https://github.com/user-attachments/assets/0891612b-c105-4b00-912d-aa7229860728" width="350" alt="image" />
+<img src="https://github.com/user-attachments/assets/5ccb3049-2823-4b75-b92f-e69b27490fc1" width="350" alt="image" />
+
 --------------------------------------------------------
 
 04_BeginnerSpotifyWrapped: 
@@ -21,5 +27,12 @@ For this project I have used my personal data from Spotify. Therefore, due to pr
 
 The data search method will be the next one: since one of the options is the specific day stats and the other day-range (various specific dates), the artists summary, song summary... will be made for a day and for the day-range, I will find the starting point and ending point and create a DataFrame with the data between the two limits.
 
---------------------------------------------------------
+RESULTS
+1st option (Specific Date): This is an example of what will be shown on the terminal
 
+<img src="https://github.com/user-attachments/assets/aa8f9f23-31bc-4cdd-ab5e-a9db482c76ea" width="350" alt="image" />
+
+2nd option (Day-Range): This is an example of what will be shown on the terminal
+
+<img src="https://github.com/user-attachments/assets/45de689d-38e6-45e0-954a-b61cc7341ce9" width="350" alt="image" />
+--------------------------------------------------------
